@@ -1,9 +1,3 @@
-Group members:
-Jiawei Yang
-Hancheng Jiang
-
-Which behavior did you observed from the created figure?
-The mothed with possimbility is very accurate since the error is almost zero.
-
-Why is it okay to just hash the words instead of doing a proper permutation?
-because it will be zero if there is no such words in email after two vectors multiply.
+In this exercises we will implement an algorithm which speeds up the measurement of the Jaccard similarity between documents.
+ exercises link:
+http://users.jyu.fi/~miselico/teaching/TIES438/exercises/exercise1/
